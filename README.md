@@ -1,0 +1,1 @@
+# unity-auto-build-voicevox-server
