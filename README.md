@@ -40,8 +40,7 @@ C:/
   └ voicevox_server.bat
 ```
 
-> [!IMPORTANT]
-> セットアップに失敗した場合は [7-zip](https://7-zip.opensource.jp/) または [curl](https://curl.se) がインストールしていることを確認してください。
+> **重要:** セットアップに失敗した場合は、[7-zip](https://7-zip.opensource.jp/) または [curl](https://curl.se) が正しくインストールされていることを確認してください。
 
 ### Ⅳ. 動作確認
 
@@ -83,6 +82,3 @@ C:/
 
 Unityでゲームの実行をし、コンソールに `Voicevoxサーバーを起動しました。` とログが出れば成功です。お疲れさまでした。
 </details>
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
