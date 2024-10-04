@@ -83,3 +83,6 @@ C:/
 
 Unityでゲームの実行をし、コンソールに `Voicevoxサーバーを起動しました。` とログが出れば成功です。お疲れさまでした。
 </details>
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
