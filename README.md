@@ -16,17 +16,17 @@ Unityでゲームの再生をしたときに自動でVoicevoxのサーバーを�
 
 ### Ⅰ. 必要なファイルのダウンロード
 
-[Releases](https://github.com/suzuuuuu09/unity-auto-build-voicevox-server/releases) から最新バージョンの `auto-build-voicevox-server<バージョン名>.zip`をダウンロードしてください。 (0.2.0以降)
+[Releases](https://github.com/suzuuuuu09/unity-auto-build-voicevox-server/releases/latest) から最新バージョンの `auto-build-voicevox-server.zip`をダウンロードしてください。 (0.2.0以降)
 
 ### Ⅱ. アセットの導入
 
 1. Assets -> Import Package -> Custom Package...
-2. 先ほどダウンロードした `auto-build-voicevox-server<バージョン名>.zip` の中にある `unity-auto-build-voicevox-server.unitypackage` を選択します。
+2. 先ほどダウンロードした `auto-build-voicevox-server.zip` の中にある `unity-auto-build-voicevox-server.unitypackage` を選択します。
 3. Importを押し、アセットの導入ができれば完了です。
 
 ### Ⅲ. サーバーファイルの設定
 
-1. 先ほどダウンロードした `auto-build-voicevox-server<バージョン名>.zip` の中にある `setup.bat` を実行します。
+1. 先ほどダウンロードした `auto-build-voicevox-server.zip` の中にある `setup.bat` を実行します。
 2. `セットアップが完了しました。` と出たら、何かキーを押して終了してください。
 3. 実行後、ディレクトリ構造が次のようになっていることを確認してください。
 
@@ -53,13 +53,13 @@ Unityでゲームの実行をし、コンソールに `Voicevoxサーバーを�
 
 ### Ⅰ. 必要なファイルのダウンロード
 
-1. [Releases](https://github.com/suzuuuuu09/unity-auto-build-voicevox-server/releases) から最新バージョンの `auto-build-voicevox-server<バージョン名>.zip`をダウンロードしてください。 (0.2.0以降)
+1. [Releases](https://github.com/suzuuuuu09/unity-auto-build-voicevox-server/releases) から最新バージョンの `auto-build-voicevox-server.zip`をダウンロードしてください。 (0.2.0以降)
 2. [こちら](https://github.com/VOICEVOX/voicevox_engine/tags) からビルドアーカイブをダウンロードしてください。
 
 ### Ⅱ. アセットの導入
 
 1. Assets -> Import Package -> Custom Package...
-2. 先ほどダウンロードした `auto-build-voicevox-server<バージョン名>.zip` の中にある `unity-auto-build-voicevox-server.unitypackage` を選択します。
+2. 先ほどダウンロードした `auto-build-voicevox-server.zip` の中にある `unity-auto-build-voicevox-server.unitypackage` を選択します。
 3. Importを押し、アセットの導入ができれば完了です。
 
 ### Ⅲ. サーバーファイルの設定
